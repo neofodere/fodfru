@@ -1,4 +1,4 @@
-![](logo_fodfru.png)
+![](logo_fodfru.png)<br>
 3D platformer video game developed by Néo Foderé de Frutos under the name NSTUDIOS GAMES™, a division of FODSOFT™.
 [Itch page](https://nsg-fodsoft.itch.io/fodfru)
 # Description
