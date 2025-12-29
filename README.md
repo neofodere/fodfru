@@ -1,8 +1,7 @@
-![](logo_fodfru.png)<br>
-3D platformer video game developed by Néo Foderé de Frutos under the brand NSTUDIOS GAMES™, a division of FODSOFT™.
-[Itch page](https://nsg-fodsoft.itch.io/fodfru)<br>
-![](fodfru_proto.gif)<br>
-# Description
+# FodFru™
+![](images/logo_fodfru.png)<br>
+
+# 📖 Description
 FodFru™ is a 3D platformer video game developed by Néo Foderé de Frutos under the brand NSTUDIOS GAMES™, a division of FODSOFT™.
 In this game, you step into the shoes of the fodfrus, a spherical-shaped alien species that can change color at will. This species is building an amusement park inspired by planet Earth. The problem is that several parts are missing from the main attraction’s mechanism, so your fodfru is one of the chosen ones tasked with finding the remaining pieces to complete the final ride and open the park.
 
