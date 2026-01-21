@@ -1,5 +1,5 @@
 # <img src="images/icono_fodfru.png" width="32" height="auto"> FodFru™
-<img src="images/logo_fodfru.png" width="600" height="450"><br>
+<img src="https://resources.fodsoft.com/images/png/logo_fodfru.png" width="512" height="auto"><br>
 
 # 📖 Description
 FodFru™ is a 3D platformer video game developed by Néo Foderé de Frutos under the brand NSTUDIOS GAMES™, a division of FODSOFT™.
