@@ -1,4 +1,4 @@
-# <img src="images/icono_fodfru.png" width="32" height="auto"> FodFru™
+# <img src="https://resources.fodsoft.com/images/png/icono_fodfru.png" width="32" height="auto"> FodFru™
 <img src="https://resources.fodsoft.com/images/png/logo_fodfru.png" width="512" height="auto">
 
 # 📖 Description
